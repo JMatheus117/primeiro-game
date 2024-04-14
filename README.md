@@ -12,7 +12,7 @@ https://prnt.sc/Ytvn_WaECXZ8
 ![image](https://github.com/JMatheus117/primeiro-game/assets/166875667/3898b883-59a0-4d25-b149-ee30cbf4e9be)
 
 
-Link do banco de dados: https://console.firebase.google.com/project/spaceship-9fa98/database/spaceship-9fa98-default-rtdb/data/~2F?hl=pt-br
+Link do banco de dados: https://spaceship-9fa98-default-rtdb.firebaseio.com/
 
 
 Prints do Banco de dados: https://prnt.sc/NMoJNO-7kOx_
